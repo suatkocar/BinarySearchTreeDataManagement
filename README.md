@@ -1,4 +1,4 @@
-# Binary Search Tree for Data Management
+# Binary Search Tree Data Management
 
 ![BST Demo](screenshots/bst-demo.gif)
 
