@@ -1,5 +1,5 @@
 # Binary Search Tree Data Management
-# Windows Form Application
+## Windows Form Application
 
 ![BST Demo](screenshots/bst-demo.gif)
 
